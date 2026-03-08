@@ -1,0 +1,3 @@
+/home/anisur/Projects/hyprland/monalisa/build/CMakeFiles/monalisa.dir
+/home/anisur/Projects/hyprland/monalisa/build/CMakeFiles/edit_cache.dir
+/home/anisur/Projects/hyprland/monalisa/build/CMakeFiles/rebuild_cache.dir
