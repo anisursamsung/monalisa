@@ -37,9 +37,7 @@ A minimal, fast image viewer built with Hyprtoolkit for Wayland/Hyprland environ
 ```bash
 git clone https://github.com/yourusername/monalisa.git
 cd monalisa
-mkdir build && cd build
-cmake ..
-make
+./make.sh
 
 ```
 
